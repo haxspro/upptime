@@ -22,17 +22,19 @@
     "url": "https://v2.pake.tk/ping",
     "icon": "https://icons.duckduckgo.com/ip3/v2.pake.tk.ico",
     "slug": "api-v2",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 235,
-    "timeWeek": 235,
-    "timeMonth": 235,
-    "timeYear": 235,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 217,
+    "timeDay": 217,
+    "timeWeek": 217,
+    "timeMonth": 217,
+    "timeYear": 217,
+    "dailyMinutesDown": {
+      "2023-12-10": 0
+    }
   }
 ]
