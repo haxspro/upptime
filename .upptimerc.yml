@@ -8,7 +8,7 @@ sites:
   - name: API v2
     url:  https://v2.pake.tk/ping
   - name: API v3
-    url:  https://api.noobzhax.com/ping
+    url: https://api.noobzhax.com/ping
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
