@@ -7,7 +7,7 @@ sites:
     url: https://api.pake.tk/ping
   - name: API v2
     url:  https://v2.pake.tk/ping
-  - name: API v2
+  - name: API v3
     url:  https://api.noobzhax.com/ping
     
 status-website:
