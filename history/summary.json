@@ -23,14 +23,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/v2.pake.tk.ico",
     "slug": "api-v2",
     "status": "up",
-    "uptime": "98.80%",
+    "uptime": "98.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.63%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "98.80%",
+    "uptimeYear": "98.81%",
     "time": 216,
     "timeDay": 189,
-    "timeWeek": 231,
+    "timeWeek": 238,
     "timeMonth": 220,
     "timeYear": 216,
     "dailyMinutesDown": {
@@ -46,7 +46,7 @@
     "url": "https://api.noobzhax.com/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.noobzhax.com.ico",
     "slug": "api-v3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -57,6 +57,8 @@
     "timeWeek": 394,
     "timeMonth": 425,
     "timeYear": 411,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-31": 0
+    }
   }
 ]
