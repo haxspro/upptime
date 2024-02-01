@@ -1,7 +1,7 @@
 url: https://v2.pake.tk/ping
-status: up
-code: 200
-responseTime: 221
-lastUpdated: 2024-01-31T23:15:39.579Z
+status: down
+code: 502
+responseTime: 309
+lastUpdated: 2024-02-01T10:08:08.326Z
 startTime: 2023-12-10T13:40:48.450Z
 generator: Upptime <https://github.com/upptime/upptime>
