@@ -40,17 +40,19 @@
     "url": "https://api.noobzhax.com/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.noobzhax.com.ico",
     "slug": "doo-d-api-v3-fastapi-vps",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 307,
     "timeDay": 307,
     "timeWeek": 307,
     "timeMonth": 307,
     "timeYear": 307,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-08": 0
+    }
   }
 ]
