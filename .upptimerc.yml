@@ -15,8 +15,6 @@ sites:
     url: https://softsub.eu.org
   - name: SUB.BERKAS.EU.ORG
     url: https://sub.berkas.eu.org
-  - name: SUBSCENE.COM
-    url: https://subscene.com
 
     
 status-website:
