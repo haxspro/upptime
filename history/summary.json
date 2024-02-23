@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 626,
-    "timeDay": 394,
+    "timeDay": 408,
     "timeWeek": 396,
     "timeMonth": 626,
     "timeYear": 626,
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 257,
+    "timeDay": 273,
     "timeWeek": 229,
     "timeMonth": 237,
     "timeYear": 237,
@@ -94,19 +94,19 @@
     "url": "https://sub.berkas.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/sub.berkas.eu.org.ico",
     "slug": "sub-berkas-eu-org",
-    "status": "down",
-    "uptime": "0.19%",
-    "uptimeDay": "0.19%",
-    "uptimeWeek": "0.19%",
-    "uptimeMonth": "0.19%",
-    "uptimeYear": "0.19%",
-    "time": 148,
-    "timeDay": 148,
-    "timeWeek": 148,
-    "timeMonth": 148,
-    "timeYear": 148,
+    "status": "up",
+    "uptime": "0.80%",
+    "uptimeDay": "0.80%",
+    "uptimeWeek": "0.80%",
+    "uptimeMonth": "0.80%",
+    "uptimeYear": "0.80%",
+    "time": 278,
+    "timeDay": 278,
+    "timeWeek": 278,
+    "timeMonth": 278,
+    "timeYear": 278,
     "dailyMinutesDown": {
-      "2024-02-23": 3
+      "2024-02-23": 10
     }
   },
   {
@@ -115,18 +115,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/subscene.com.ico",
     "slug": "subscene-com",
     "status": "down",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 106,
     "timeDay": 106,
     "timeWeek": 106,
     "timeMonth": 106,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2024-02-23": 3
+      "2024-02-23": 10
     }
   }
 ]
