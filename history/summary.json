@@ -58,18 +58,20 @@
     "url": "https://subscene.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/subscene.eu.org.ico",
     "slug": "subscene-eu-org",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 942,
     "timeDay": 3449,
     "timeWeek": 942,
     "timeMonth": 942,
     "timeYear": 942,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-28": 2
+    }
   },
   {
     "name": "SOFTSUB.EU.ORG",
@@ -77,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/softsub.eu.org.ico",
     "slug": "softsub-eu-org",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "98.38%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
+    "uptime": "99.78%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
     "time": 1428,
     "timeDay": 3316,
     "timeWeek": 1428,
     "timeMonth": 1428,
     "timeYear": 1428,
     "dailyMinutesDown": {
-      "2024-02-28": 23
+      "2024-02-28": 16
     }
   },
   {
@@ -97,18 +99,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sub.berkas.eu.org.ico",
     "slug": "sub-berkas-eu-org",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 775,
     "timeDay": 2175,
     "timeWeek": 775,
     "timeMonth": 775,
     "timeYear": 775,
-    "dailyMinutesDown": {
-      "2024-02-28": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
