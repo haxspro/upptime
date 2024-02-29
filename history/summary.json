@@ -96,19 +96,19 @@
     "url": "https://sub.berkas.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/sub.berkas.eu.org.ico",
     "slug": "sub-berkas-eu-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2775,
-    "timeDay": 20780,
-    "timeWeek": 2775,
-    "timeMonth": 2775,
-    "timeYear": 2775,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 3230,
+    "timeDay": 14278,
+    "timeWeek": 3230,
+    "timeMonth": 3230,
+    "timeYear": 3230,
     "dailyMinutesDown": {
-      "2024-02-29": 0
+      "2024-02-29": 8
     }
   }
 ]
