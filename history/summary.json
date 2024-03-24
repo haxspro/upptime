@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 508,
-    "timeDay": 530,
-    "timeWeek": 444,
-    "timeMonth": 426,
-    "timeYear": 508,
+    "time": 506,
+    "timeDay": 396,
+    "timeWeek": 452,
+    "timeMonth": 424,
+    "timeYear": 506,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 245,
-    "timeDay": 185,
-    "timeWeek": 249,
-    "timeMonth": 253,
-    "timeYear": 245,
+    "time": 242,
+    "timeDay": 90,
+    "timeWeek": 240,
+    "timeMonth": 247,
+    "timeYear": 242,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 194,
-    "timeDay": 70,
-    "timeWeek": 184,
-    "timeMonth": 194,
+    "timeDay": 203,
+    "timeWeek": 178,
+    "timeMonth": 196,
     "timeYear": 194,
     "dailyMinutesDown": {}
   },
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2321,
-    "timeDay": 822,
-    "timeWeek": 1414,
-    "timeMonth": 2321,
-    "timeYear": 2321,
+    "time": 2280,
+    "timeDay": 1027,
+    "timeWeek": 1495,
+    "timeMonth": 2445,
+    "timeYear": 2280,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 2296,
-    "timeDay": 824,
-    "timeWeek": 1492,
-    "timeMonth": 2296,
-    "timeYear": 2296,
+    "time": 2256,
+    "timeDay": 994,
+    "timeWeek": 1581,
+    "timeMonth": 2421,
+    "timeYear": 2256,
     "dailyMinutesDown": {
       "2024-02-28": 16
     }
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1831,
-    "timeDay": 876,
-    "timeWeek": 1214,
-    "timeMonth": 1831,
-    "timeYear": 1831,
+    "time": 1798,
+    "timeDay": 720,
+    "timeWeek": 1218,
+    "timeMonth": 1991,
+    "timeYear": 1798,
     "dailyMinutesDown": {}
   }
 ]
