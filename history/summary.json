@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 499,
     "timeDay": 539,
-    "timeWeek": 453,
-    "timeMonth": 425,
+    "timeWeek": 445,
+    "timeMonth": 427,
     "timeYear": 499,
     "dailyMinutesDown": {}
   },
@@ -30,8 +30,8 @@
     "uptimeYear": "100.00%",
     "time": 246,
     "timeDay": 370,
-    "timeWeek": 259,
-    "timeMonth": 241,
+    "timeWeek": 245,
+    "timeMonth": 242,
     "timeYear": 246,
     "dailyMinutesDown": {}
   },
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 189,
     "timeDay": 125,
-    "timeWeek": 143,
+    "timeWeek": 149,
     "timeMonth": 193,
     "timeYear": 189,
     "dailyMinutesDown": {}
@@ -66,8 +66,8 @@
     "uptimeYear": "100.00%",
     "time": 2141,
     "timeDay": 382,
-    "timeWeek": 1122,
-    "timeMonth": 2143,
+    "timeWeek": 1156,
+    "timeMonth": 1740,
     "timeYear": 2141,
     "dailyMinutesDown": {}
   },
@@ -84,8 +84,8 @@
     "uptimeYear": "99.97%",
     "time": 2023,
     "timeDay": 418,
-    "timeWeek": 625,
-    "timeMonth": 2208,
+    "timeWeek": 603,
+    "timeMonth": 1312,
     "timeYear": 2023,
     "dailyMinutesDown": {
       "2024-02-28": 16
@@ -96,19 +96,20 @@
     "url": "https://sub.berkas.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/sub.berkas.eu.org.ico",
     "slug": "sub-berkas-eu-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1631,
-    "timeDay": 202,
-    "timeWeek": 615,
-    "timeMonth": 1888,
-    "timeYear": 1631,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "92.56%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.78%",
+    "time": 1597,
+    "timeDay": 238,
+    "timeWeek": 545,
+    "timeMonth": 1205,
+    "timeYear": 1597,
     "dailyMinutesDown": {
-      "2024-03-28": 0
+      "2024-03-29": 62,
+      "2024-03-28": 45
     }
   }
 ]
