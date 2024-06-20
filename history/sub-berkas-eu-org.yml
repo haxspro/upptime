@@ -1,7 +1,7 @@
 url: https://sub.berkas.eu.org
-status: up
-code: 200
-responseTime: 475
-lastUpdated: 2024-06-20T18:30:42.951Z
+status: down
+code: 500
+responseTime: 375
+lastUpdated: 2024-06-20T18:50:07.911Z
 startTime: 2024-02-23T23:15:16.513Z
 generator: Upptime <https://github.com/upptime/upptime>
