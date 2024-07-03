@@ -40,9 +40,9 @@
     "url": "https://api.noobzhax.com/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.noobzhax.com.ico",
     "slug": "doo-d-api-v3-fastapi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 181,
     "timeMonth": 190,
     "timeYear": 196,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-03": 0
+    }
   },
   {
     "name": "SUBSCENE.EU.ORG",
@@ -97,11 +99,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sub.berkas.eu.org.ico",
     "slug": "sub-berkas-eu-org",
     "status": "up",
-    "uptime": "99.45%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.46%",
     "time": 798,
     "timeDay": 318,
     "timeWeek": 290,
